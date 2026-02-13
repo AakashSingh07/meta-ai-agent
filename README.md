@@ -164,9 +164,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 # 🚀 Meta AI Agent GUI
 
-![Meta AI Agent Preview](meta-ai-agent-preview.png)
+<img src="meta-ai-agent-preview.png" width="900"/>
 
 A powerful Meta AI Agent Desktop Application built with Python and Tkinter...
-
-![Demo](demo.gif)
 
