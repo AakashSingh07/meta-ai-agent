@@ -162,7 +162,8 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 This project is licensed under the **MIT License** — feel free to use and modify it.
 
-## 📸 Application Preview
+# 🚀 Meta AI Agent GUI
 
-![Meta AI Agent GUI](Screenshot 2026-02-13 at 7.44.23 PM.png)
+![Meta AI Agent Preview](meta-ai-agent-preview.png)
+
 
